@@ -6,7 +6,7 @@
 
 ## 📂 Contenido del repositorio
 - `Tienda Online.ipynb`: Notebook principal con la implementación básica del sistema.
-- `Bonus Tienda Online.ipynb`: Extensión del sistema con funcionalidades avanzadas para gestión de clientes y compras.
+- `Tienda Online (Bonus).ipynb`: Extensión del sistema con funcionalidades avanzadas para gestión de clientes y compras.
 - `Feedback`: Evaluación, comentarios y sugerencias sobre el ejercicio.
 - `README.md`: Este archivo descriptivo del proyecto.
 
